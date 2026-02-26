@@ -7,8 +7,6 @@ This project combines:
 1. **U-Net segmentation** → predicts lesion mask, with a
 2. **Mask-aware classifier** → predicts diagnosis (**normal / benign / malignant**) using the predicted mask
 
-The system improves explainability by showing **where the model is looking** before predicting the class.
-
 ---
 
 ## Demo/Results
