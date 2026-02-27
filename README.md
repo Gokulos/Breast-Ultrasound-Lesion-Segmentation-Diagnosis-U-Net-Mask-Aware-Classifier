@@ -91,7 +91,7 @@ Segmentation (U-Net)
 
 - Encoder–decoder CNN with skip connections
 - Predicts binary lesion mask
-- Trained using **BCE + Dice loss**
+- Trained using BCE + Dice loss
 - Evaluated using Dice coefficient
 
 Classification
