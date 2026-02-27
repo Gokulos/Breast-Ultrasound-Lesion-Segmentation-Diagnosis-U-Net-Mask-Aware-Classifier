@@ -34,13 +34,13 @@ DATASET_ROOT/
 │   └── image.png
 ```
 ![Data](Images/Data.png)
+Notes:
+- Masks exist mostly for benign and malignant
+- Normal class is treated as **empty mask**
 
 ## Model Results on Test data:
 ![Results](Images/Results_1.png)
 
-Notes:
-- Masks exist mostly for benign and malignant
-- Normal class is treated as **empty mask**
 
 ---
 
