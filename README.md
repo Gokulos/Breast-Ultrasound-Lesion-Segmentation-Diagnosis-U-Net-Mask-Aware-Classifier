@@ -20,16 +20,19 @@ This project combines:
 **Breast Ultrasound Images Dataset (BUSI)**  
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
-Dataset structure:
-├── DATASET_ROOT/
+### Dataset Structure
+
+```
+DATASET_ROOT/
 ├── benign/
-├── ├── image.png
-├── ├── image_mask.png
+│   ├── image.png
+│   ├── image_mask.png
 ├── malignant/
-├─ ─├── image.png
-├── ├── image_mask.png
+│   ├── image.png
+│   ├── image_mask.png
 ├── normal/
-├── ├── image.png
+│   └── image.png
+```
 
 
 Notes:
@@ -40,19 +43,23 @@ Notes:
 
 
 ## Repository Structure
+
+```
+Breast_Cancer_Detection_Deep_Learning/
 ├── Breast_Cancer_Detection_Deep_Learning.ipynb
 ├── src/
-│ ├── data.py
-│ ├── unet_model.py
-│ ├── classifier_model.py
-│ ├── train_unet.py
-│ ├── train_classifier.py
-│ └── infer.py
+│   ├── data.py
+│   ├── unet_model.py
+│   ├── classifier_model.py
+│   ├── train_unet.py
+│   ├── train_classifier.py
+│   └── infer.py
 ├── models/
 ├── reports/
-│ └── figures/
+│   └── figures/
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
