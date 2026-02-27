@@ -9,7 +9,7 @@ This project combines:
 
 ---
 
-## Demo/Results
+## Demo/Results,
 
 ![Demo](Images/Demo_1.gif)
 ![Results](Images/Results_2.png)
