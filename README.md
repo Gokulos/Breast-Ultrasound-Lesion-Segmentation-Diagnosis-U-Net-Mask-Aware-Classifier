@@ -36,7 +36,7 @@ Notes:
 - Masks exist mostly for benign and malignant
 - Normal class is treated as **empty mask**
 
-## Segmentation Results on Test data:
+## Segmentation Results:
 ![Results](Images/Results_1.png)
 
 ## Classification Model Results
